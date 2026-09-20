@@ -24,6 +24,7 @@
 * [Zoho Invoice](https://www.zoho.com/invoice) - Free online invoicing software with multi-currency support.
 * [Invoice Ninja](https://invoiceninja.com) - Open-source invoicing platform with self-hosting option.
 * [Bill.com](https://bill.com) - SMB-focused AP and AR automation.
+* [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only invoice, quote, retainer outline, and payment tools for freelancers (MIT, no signup). Includes [retainer agreement outline](https://darweesh128-cmd.github.io/client-close-kit/retainer-agreement-outline.html).
 
 ## Accounts Receivable Automation
 *Get paid faster without writing chase emails by hand.*
